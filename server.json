@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "React Job",
+      "type": "income",
+      "category": "Work",
+      "price": 14000,
+      "createdAt": "2023-04-28T23:40:42.907Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Food",
+      "price": 60,
+      "createdAt": "2023-04-27T23:40:42.907Z"
+    },
+    {
+      "id": 3,
+      "description": "Internet",
+      "type": "outcome",
+      "category": "Services",
+      "price": 130,
+      "createdAt": "2023-04-26T23:40:42.907Z"
+    },
+    {
+      "description": "frango",
+      "price": 50,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2023-04-30T21:18:43.575Z",
+      "id": 4
+    },
+    {
+      "description": "Sansung S23",
+      "price": 5000,
+      "category": "Tec",
+      "type": "outcome",
+      "createdAt": "2023-04-30T21:48:05.232Z",
+      "id": 5
+    },
+    {
+      "description": "Restaurante",
+      "price": 100,
+      "category": "food",
+      "type": "outcome",
+      "createdAt": "2023-04-30T21:48:59.544Z",
+      "id": 6
+    }
+  ]
+}
